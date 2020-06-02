@@ -1,0 +1,13 @@
+﻿  CEdit.cpp
+  CFinances.cpp
+  CGenerall_Info.cpp
+  CInventory.cpp
+  CMain.cpp
+  CMerchendise.cpp
+  CShop.cpp
+  CWorkers.cpp
+  main.cpp
+C:\Users\DHPC\source\repos\Курсова\Курсова\main.cpp(6,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода...
+C:\Users\DHPC\source\repos\Курсова\Курсова\main.cpp(7,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Курсова.vcxproj -> C:\Users\DHPC\source\repos\Курсова\Debug\Курсова.exe
